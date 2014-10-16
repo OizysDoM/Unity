@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AEA92B35-ECFF-468E-E61D-AE0ECEBA30AF}") = "Distress on Mars", "Assembly-CSharp-firstpass.csproj", "{95532765-2AC7-CBF4-95C0-06785D43895C}"
+EndProject
+Project("{AEA92B35-ECFF-468E-E61D-AE0ECEBA30AF}") = "Distress on Mars", "Assembly-UnityScript-firstpass.unityproj", "{C24F2033-A001-F897-F2C8-D26DA93CB23D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95532765-2AC7-CBF4-95C0-06785D43895C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95532765-2AC7-CBF4-95C0-06785D43895C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95532765-2AC7-CBF4-95C0-06785D43895C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95532765-2AC7-CBF4-95C0-06785D43895C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C24F2033-A001-F897-F2C8-D26DA93CB23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24F2033-A001-F897-F2C8-D26DA93CB23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24F2033-A001-F897-F2C8-D26DA93CB23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24F2033-A001-F897-F2C8-D26DA93CB23D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+									GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
