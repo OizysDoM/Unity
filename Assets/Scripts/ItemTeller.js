@@ -8,7 +8,6 @@ private var object = GameObject;
 function OnTriggerEnter (collision : Collider){
 	Destroy(gameObject);
 	teller = charTeller.teller;
-	Debug.Log(teller);
 	teller ++;
 	charTeller.teller = teller;
 	
