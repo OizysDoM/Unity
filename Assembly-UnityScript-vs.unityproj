@@ -46,9 +46,12 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\AnimateTexture.js" />
      <Compile Include="Assets\Scripts\CharTeller.js" />
      <Compile Include="Assets\Scripts\ItemTeller.js" />
+     <Compile Include="Assets\Scripts\PlayerAnimate.js" />
      <Compile Include="Assets\Scripts\SmoothFollow.js" />
+     <Compile Include="Assets\Scripts\TextureFlip.js" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />

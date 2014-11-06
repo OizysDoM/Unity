@@ -1,7 +1,7 @@
 ﻿#pragma strict
 private var teller : int;
 private var charTeller : CharTeller;
-charTeller = GameObject.Find("Sphere").GetComponent(CharTeller);
+charTeller = GameObject.Find("Graphics").GetComponent(CharTeller);
 private var object = GameObject;
 
 
