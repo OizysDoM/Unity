@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 7e55d945f56c64698814b00f9280fb26
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Astronaut10_0
+    21300002: Astronaut10_1
+    21300004: Astronaut10_2
+    21300006: Astronaut10_3
+    21300008: Astronaut10_4
+    21300010: Astronaut10_5
+    21300012: Astronaut10_6
+    21300014: Astronaut10_7
+    21300016: Astronaut10_8
+    21300018: Astronaut10_9
+    21300020: Astronaut10_10
+    21300022: Astronaut10_11
+    21300024: Astronaut10_12
+    21300026: Astronaut10_13
+    21300028: Astronaut10_14
+    21300030: Astronaut10_15
+    21300032: Astronaut10_16
+    21300034: Astronaut10_17
+    21300036: Astronaut10_18
+    21300038: Astronaut10_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Astronaut10_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2144
+        width: 272
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_1
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 2144
+        width: 272
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_2
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2144
+        width: 272
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_3
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 2144
+        width: 272
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_4
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2144
+        width: 272
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1675
+        width: 238
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_6
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1675
+        width: 238
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_7
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1675
+        width: 238
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_8
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1675
+        width: 237
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_9
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1675
+        width: 238
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1164
+        width: 230
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1166
+        width: 195
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_12
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1167
+        width: 216
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_13
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1155
+        width: 205
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_14
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1159
+        width: 194
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 659
+        width: 195
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 655
+        width: 205
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_17
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 667
+        width: 216
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_18
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 667
+        width: 195
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Astronaut10_19
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 664
+        width: 231
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
