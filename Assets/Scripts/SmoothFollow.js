@@ -18,7 +18,7 @@ function Update () {
 	else transform.LookAt (target, target.up);
 	
 	if(lockRotation){
-		transform.localRotation = Quaternion.EulerAngles(0.2,0,0);
+		transform.localRotation = Quaternion.Euler(0.2,0,0);
 	}
 	
 }
